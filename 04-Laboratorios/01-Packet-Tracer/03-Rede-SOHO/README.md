@@ -44,7 +44,7 @@ dentro da rede.
 
 O comando utilizado para o teste foi:
 
-```text
+
 ping
 
 O teste permitiu verificar a conectividade entre os dispositivos
@@ -84,3 +84,5 @@ investigações realizadas e soluções aplicadas.
 Continuar praticando configurações de redes no Cisco Packet Tracer,
 aprofundando conhecimentos em DHCP, conectividade, redes sem fio
 e troubleshooting.
+
+```text
