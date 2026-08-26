@@ -2,6 +2,10 @@
 
 O **ARP** é um protocolo do conjunto TCP/IP utilizado para mapear endereços **IPv4 (Camada 3)** em endereços **MAC físicos (Camada 2)**.
 
+O **ARP** tem duas funções principais: 
+- manter uma tabela de mapeamentos de endereços IPv4 para MAC e
+- determinar os endereços MAC de endereços IPv4 conhecidos.
+  
 ### Como Funciona:
 1. **Solicitação ARP:** Quando um dispositivo precisa enviar dados na rede local (LAN), ele faz um envio em *broadcast* perguntando qual MAC pertence ao IP de destino.
 2. **Resposta ARP:** O dispositivo dono do IP responde diretamente (*unicast*) informando seu endereço MAC.
