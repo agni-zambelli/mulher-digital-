@@ -9,11 +9,13 @@ formação em Tecnologia, Redes e Cibersegurança.
 
 - Introdução à Cibersegurança
 - Conceitos Básicos de Redes
+- Dispositivos de rede e configuração inicial
 
 ### Em andamento
 
-- Dispositivos de Rede
+- Segurança de Endpoints
 - Trilha de Cibersegurança
+
 
 ## 🎯 Próximos passos
 
