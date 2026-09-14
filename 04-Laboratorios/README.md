@@ -1,14 +1,32 @@
-# 🌐 Laboratórios Cisco Packet Tracer
+# 🧪 Laboratórios Práticos
 
-Coleção de laboratórios práticos desenvolvidos durante minha formação
-em Redes e Cibersegurança utilizando o Cisco Packet Tracer.
+Esta seção reúne atividades práticas realizadas durante minha formação
+em Redes, Infraestrutura e Cibersegurança.
 
-## 🧪 Laboratórios
+Os laboratórios documentam minha evolução técnica, incluindo configuração,
+testes, análise de tráfego, troubleshooting e simulação de ambientes.
 
-Os laboratórios serão organizados cronologicamente e documentados
-com seus respectivos objetivos, configurações, testes, evidências
-e aprendizados.
+## 🌐 Redes e Packet Tracer
 
-## 🛠️ Ferramenta
+- Construção de rede funcional
+- Rede hierárquica
+- Rede SOHO
+- Configuração de senha em switch
+- Configuração de serviços de aplicação
+- Testes relacionados à camada de transporte
 
-- Cisco Packet Tracer
+## 🔎 Análise de Redes
+
+- Laboratórios com Wireshark
+- Análise de tráfego de rede
+
+## 💻 Virtualização
+
+- Experimentos com máquinas virtuais
+- VirtualBox / VMware
+- Simulação de ambientes práticos
+
+## 🎯 Objetivo
+
+Documentar não apenas os resultados dos laboratórios, mas também os
+processos, problemas encontrados, soluções aplicadas e aprendizados obtidos.
